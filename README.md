@@ -1,30 +1,32 @@
-### Hi there, I'm Mazdak 👋
+### Hello there!👋
+I'm Mazdak, a Front-end Developer & UI/UX desiger from Iran. Currenctly I'm studying Software engineering and also works as a freelancer. 
 
-## I'm a Developer & Designer!
-
-- 👨‍💻 I'm currently working on a my own website!
-- 📚 I'm currently learning new technologies.
-- ✅ I'm looking for new jobs
-
-<br>
-
-## My expertise
-
-<p>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+##  🚀 Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,wordpress,ps,xd,figma" />
+  </a>
 </p>
+  
+## ⬆️ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+  - My Interests :
+    - 🎮 Gaming
+    - 💻 Talking to computers
+    - 🗺 Trips, Who doesn't like trips?
+    - 🎵 Music
+  - My Plans :
+    - 😄 Work on **Open Source Projects**
+    - 🔭 Learn deeper In my field of work
+ 
 
-<br>
-
-## My social networks
-<a href="https://instagram.com/the_neoweb">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-<a href="https://t.me/mazdak_es23">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+  
+## :phone: Contact Me
+  - 🤟 Feel free to contact me 
+  <p align="center">
+     <a href="mailto:mazdak.es23@gmail.com">
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+     </a>
+     <a href="https://www.instagram.com/mazdak_es">
+       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+     </a>
+  </p>

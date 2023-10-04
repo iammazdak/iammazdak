@@ -30,7 +30,7 @@ I'm Mazdak, a Front-end Developer & UI/UX desiger from Iran. Currenctly I'm stud
        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
      </a>
      </a>
-     <a href="https://www.dribbble.com/mazdak23">
+     <a href="https://dribbble.com/Mazdak23">
        <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
      </a>
   </p>

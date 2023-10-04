@@ -4,7 +4,7 @@ I'm Mazdak, a Front-end Developer & UI/UX desiger from Iran. Currenctly I'm stud
 ##  🚀 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,wordpress,ps,xd,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,wordpress,ps,xd,figma,pwa" />
   </a>
 </p>
   

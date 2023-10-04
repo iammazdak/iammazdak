@@ -4,7 +4,7 @@ I'm Mazdak, a Front-end Developer & UI/UX desiger from Iran. Currenctly I'm stud
 ##  🚀 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,wordpress,ps,xd,figma,pwa" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,wordpress,ps,xd,figma" />
   </a>
 </p>
   
@@ -23,6 +23,9 @@ I'm Mazdak, a Front-end Developer & UI/UX desiger from Iran. Currenctly I'm stud
 ## :phone: Contact Me
   - 🤟 Feel free to contact me 
   <p align="center">
+     <a href="https://t.me/mazdak_es23">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+     </a>
      <a href="mailto:mazdak.es23@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
      </a>
@@ -32,5 +35,8 @@ I'm Mazdak, a Front-end Developer & UI/UX desiger from Iran. Currenctly I'm stud
      </a>
      <a href="https://dribbble.com/Mazdak23">
        <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
+     </a>
+     <a href="https://www.threads.net/@mazdak.esmaeili">
+       <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white">
      </a>
   </p>
